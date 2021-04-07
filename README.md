@@ -1,2 +1,2 @@
-# bounceoffAlgorithm
-We created a bounce off game.
+# bounceOffAlgorithm
+Algorithm to bounce off two objects
